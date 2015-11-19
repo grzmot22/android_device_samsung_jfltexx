@@ -15,3 +15,5 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 PRODUCT_DEVICE := jfltexx
 PRODUCT_NAME := cm_jfltexx
 
+#CM (V4A) Audio Mod		
+CM_AUDIO_MOD := viper
